@@ -15,12 +15,10 @@
 he's an example
 ![same post](https://github.com/Eazy252/facebook_automation_test/assets/26329848/6c30bcb5-7e7f-46b6-98c9-a02ee7770398)
 
-# view here if the image above is broken or dosent open
-
-[![same post](https://github.com/Eazy252/facebook_automation_test/assets/26329848/f7687f5d-769e-444a-9465-749969e8aba4) ](https://drive.google.com/file/d/1EBiDoA1hPAmKI6YyF6qPU3b8J5Ag4eBZ/view?usp=drive_link)
+# view here if the image above is broken or dosent open  [![same post](https://github.com/Eazy252/facebook_automation_test/assets/26329848/f7687f5d-769e-444a-9465-749969e8aba4) ](https://drive.google.com/file/d/1EBiDoA1hPAmKI6YyF6qPU3b8J5Ag4eBZ/view?usp=drive_link)
 
 
-He's a demo of the successful automation test.
+# He's a demo of the successful automation test.
 https://drive.google.com/file/d/1PJZHdYobqmT82AbIrdRp1BmEHjcKbnv3/view?usp=sharing
 
 
