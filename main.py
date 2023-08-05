@@ -41,7 +41,7 @@ def login_and_make_post(username, password, post_content):
         word = '/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]'
         post_button = '/html/body/div[1]/div/div[1]/div/div[4]/div/div/div[1]/div/div[2]/div/div/div/form/div/div[1]/div/div/div/div[3]/div[2]/div/div'
 
-        # click's on the home button incase random promts of add friend or acept friend request is shown
+        # click's on the home button incase random prompts of add friend or accept friend request is shown
         # driver.find_element(By.XPATH, homeButton).click()
         # driver.find_element(By.TAG_NAME, 'Home').click()
         driver.find_element(By.CSS_SELECTOR, '[aria-label=Home]').click()
@@ -56,9 +56,8 @@ def login_and_make_post(username, password, post_content):
         # post_box = driver.find_element(By.XPATH, input_field)
         post_box = driver.find_element(By.XPATH, pa)
         print('post box found')
-        time.sleep(5)
-        # post_box.send_keys(post_content)
-        # driver.execute_async_script("arguments[0].value = arguments[1];", post_content, post_box)
+        post_box.is_enabled()
+
         driver.execute_script("arguments[0].value = arguments[1];", post_content, post_box)
         print(post_content + " typed ")
 
@@ -70,7 +69,7 @@ def login_and_make_post(username, password, post_content):
 
         driver.get('https://www.google.com/')
         print("google.com visited")
-        time.sleep(2)
+        time.sleep(1)
         google_search_box = driver.find_element(By.CSS_SELECTOR, "[aria-label=Search]")
         print("search box found")
         google_search_box.send_keys('best QA Engineering practices')
