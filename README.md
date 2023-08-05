@@ -1,22 +1,22 @@
 # facebook_automation_test
  selenium Facebook automation  
 
- This an automation script that can be used to login to facebook and post 
+ This an automation script that can be used to log in to facebook and post 
 
- # IDE  : pycahm
- provided you have the pycham IDE install and python configured to Install the selenium package from pycham ( file >> settings >> python interpreter >> click on the + icon then serach for selenium, install the selenium package
+ # IDE  : pycharm
+ provided you have the pycham IDE install and python configured to Install the selenium package from pycham ( file >> settings >> python interpreter >> click on the + icon then search for selenium, install the selenium package
 
 # Edge cases 
-🫡 The login details inputted must be correct ( user name and password )
+🫡 The login details inputted must be correct ( username and password )
 
-🫡🫡 If you have facebook loged on your browser you need to logout and and cancle the login with picture method as this will prevent the script from funning
+🫡🫡 If you have facebook logged on your browser you need to log out and cancel the login with picture method as this will prevent the script from running
 
-🫡🫡🫡 you can not post same content twice as this will not be allowed by facebook only after about 2-5 minites can you post same conten sequentianly 
+🫡🫡🫡 you can not post same content twice as this will not be allowed by facebook only after about 2-5 minutes can you post same content sequentially 
 he's an example
 ![same post](https://github.com/Eazy252/facebook_automation_test/assets/26329848/f7687f5d-769e-444a-9465-749969e8aba4) 
 
 
-He's a demo of the sucessful automation test.
+He's a demo of the successful automation test.
 https://github.com/Eazy252/facebook_automation_test/assets/26329848/6c5a06af-0393-4818-9d6a-55503aa0e415
 
 

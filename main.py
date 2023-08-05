@@ -85,7 +85,7 @@ def login_and_make_post(username, password, post_content):
         time.sleep(3)
 
 
-        #Log in to your Facebook account manualyto see the content you just posted
+        #Log in to your Facebook account manual see the content you just posted
 
 
     except Exception as e:
