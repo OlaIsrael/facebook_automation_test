@@ -17861,3 +17861,128 @@ Dynamically enable window occlusion 1
 [GPU 14476, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
 [Parent 21248, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
 [GPU 14476, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691245833652	geckodriver	INFO	Listening on 127.0.0.1:49630
+1691245836906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2Yn34F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1691245838146	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691245838307	Marionette	INFO	Listening on port 49639
+Read port: 49639
+[GFX1]: PotWebDriver BiDi listening on ws://127.0.0.1:49631
+ential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1691245838735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:49631/devtools/browser/9f246580-9719-4aee-a6db-80ced16e0326
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 15568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12600, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691245860239	Marionette	INFO	Stopped listening on port 49639
+Dynamically enable window occlusion 1
+[Parent 15568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12600, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12600, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12600, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12600, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 15568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 12600, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691245952651	geckodriver	INFO	Listening on 127.0.0.1:49833
+1691245955726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49834" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilemkgH4H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1691245956222	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691245956361	Marionette	INFO	Listening on port 49843
+Read port: 49843
+WebDriver BiDi listening on ws://127.0.0.1:49834
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1691245956518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:49834/devtools/browser/122e93c2-f0e3-4251-b0df-ef196bad623b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.facebook.com."
+[Parent 21032, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeG8PQTT1DC2Whk3lwsUQQ2pKqsMUpejjr4qqwxSl6OOvjmVQJGM2rnYOhmuzmHznc8FXW0UX_VI39Aa_Dr88hcw, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBvu4/y9/l/makehaste_jhash/OzmZWP_HTkZ.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeExLN7kRK5GIJDPH3LGH_Pjs9K09xu-mC2z0rT3G76YLRIEFkz2pn4mtzCUXcMe0FXA43LohXO9oFFNouF3Tc-3, line 161: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691245982696	Marionette	INFO	Stopped listening on port 49843
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3, line 331: Script terminated by timeout at:
+M@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:331:15185
+O@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:331:16124
+c.enqueue@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:331:14545
+write@https://static.xx.fbcdn.net/rsrc.php/v3iszC4/yC/l/makehaste_jhash/0K-Cn5BUJrMSFemGGB6ppshIbMZUVU8hEQDBdntLNlXYIg_ES2HQr2ngWEsddVGXQOhIUkZ2MnHGnk16sYdcY7IBZwi31rJJcXhxXCE_cNJ_n5qQyEaT_PUgOi8y3iftvvLr4JtYe8BwWKdOyyBK3p_kt63YBaQHz_0tmLJO__MyMwMTNm6lndyj_61SPx-_m200TKTIRfbWzzVM4qzWNcC9eODbxZOjMQmBOdHe7503v74D1t.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeHXtlOxPpr3KXW-NTHlQt28sLr-g6ExCQOwuv6DoTEJA3wKrxaNeLTIKAuoT5RrTA5AMUkqTvgMl_t-zMl1XdJV:846:661
+j@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:315:1235
+f.InvokeOrNoop@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:315:1352
+f.PromiseInvokeOrNoop@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:315:1476
+ma@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:327:12487
+P@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:327:12106
+ja@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:327:11742
+N@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:327:10175
+c.pipeTo/z</m/z</<@https://static.xx.fbcdn.net/rsrc.php/v3inC64/yN/l/makehaste_jhash/KvNozPcv0rq6hnOLnWeqYgK32QkiBDZ8RtlrfLKoTUCzekPJEw_fQXeAnhQdA1bO5E6wQEfprFPHa_xpNi0k3gpTWi5IVvhi11rdzxpFbCehAYZQllFv7EHElDaOSM4Louy60Z-RyounIAjUaeGgUzMzC58OCixHaLl6o-INMrsecarztPvPXvnnnWRlYNYgSSC1DHkdedYrV7mIwA7zrIk9MXoFRMPJVJb1OkUG4kLKlru4wUfTCfLgawtWNlffc2iCQek-64ECD_ObbcYh60_i87202CtP3jKf_ICudSPOy_QLEUHE-3WLlOjRCetgv2xsHt9x-c.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeGxS6EuIF_27541CnYG-oFh9rsxaPOArAj2uzFo84CsCJY24bkXbrZXRsBpMiSPMNr59P3Y3_wt2PbhjDOX5Vs3:331:3273
+
+Dynamically enable window occlusion 1
+[Parent 21032, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21032, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21032, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21032, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21032, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21032, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3412, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691246139834	geckodriver	INFO	Listening on 127.0.0.1:49944
+1691246142928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilen6XYJh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1691246143995	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691246144110	Marionette	INFO	Listening on port 49952
+WebDriver BiDi listening on ws://127.0.0.1:49945
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 49952
+1691246144472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:49945/devtools/browser/b4649e00-dc7e-40be-bdbe-f675a042987e
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=Ij3Wp8lg5Kz, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 20588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.facebook.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://web.facebook.com."
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yL/l/en_GB/Kt5c1i5--RI.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeG8PQTT1DC2Whk3lwsUQQ2pKqsMUpejjr4qqwxSl6OOvjmVQJGM2rnYOhmuzmHznc8FXW0UX_VI39Aa_Dr88hcw, line 23: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iBvu4/y9/l/makehaste_jhash/OzmZWP_HTkZ.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeExLN7kRK5GIJDPH3LGH_Pjs9K09xu-mC2z0rT3G76YLRIEFkz2pn4mtzCUXcMe0FXA43LohXO9oFFNouF3Tc-3, line 161: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3ikVv4/y3/l/makehaste_jhash/dxsqoIp3HWrqEXJxryT3rQKt4kYib_MH6wZdHiAgg4wJ.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeH9VCvZK4Db01ihfBFc8_R7Sq3xAvZVFX5KrfEC9lUVfiqZeCt-BSOWTsgxIPycOv_OVLQ6onftUmAl5xBKCnBF, line 128: Script terminated by timeout at:
+random@https://static.xx.fbcdn.net/rsrc.php/v3ikVv4/y3/l/makehaste_jhash/dxsqoIp3HWrqEXJxryT3rQKt4kYib_MH6wZdHiAgg4wJ.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeH9VCvZK4Db01ihfBFc8_R7Sq3xAvZVFX5KrfEC9lUVfiqZeCt-BSOWTsgxIPycOv_OVLQ6onftUmAl5xBKCnBF:128:1367
+a/</</</</</<@https://static.xx.fbcdn.net/rsrc.php/v3iszC4/yC/l/makehaste_jhash/0K-Cn5BUJrMSFemGGB6ppshIbMZUVU8hEQDBdntLNlXYIg_ES2HQr2ngWEsddVGXQOhIUkZ2MnHGnk16sYdcY7IBZwi31rJJcXhxXCE_cNJ_n5qQyEaT_PUgOi8y3iftvvLr4JtYe8BwWKdOyyBK3p_kt63YBaQHz_0tmLJO__MyMwMTNm6lndyj_61SPx-_m200TKTIRfbWzzVM4qzWNcC9eODbxZOjMQmBOdHe7503v74D1t.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeHXtlOxPpr3KXW-NTHlQt28sLr-g6ExCQOwuv6DoTEJA3wKrxaNeLTIKAuoT5RrTA5AMUkqTvgMl_t-zMl1XdJV:27:5166
+seq@https://static.xx.fbcdn.net/rsrc.php/v3ikVv4/y3/l/makehaste_jhash/dxsqoIp3HWrqEXJxryT3rQKt4kYib_MH6wZdHiAgg4wJ.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeH9VCvZK4Db01ihfBFc8_R7Sq3xAvZVFX5KrfEC9lUVfiqZeCt-BSOWTsgxIPycOv_OVLQ6onftUmAl5xBKCnBF:128:9157
+a/</</</</<@https://static.xx.fbcdn.net/rsrc.php/v3iszC4/yC/l/makehaste_jhash/0K-Cn5BUJrMSFemGGB6ppshIbMZUVU8hEQDBdntLNlXYIg_ES2HQr2ngWEsddVGXQOhIUkZ2MnHGnk16sYdcY7IBZwi31rJJcXhxXCE_cNJ_n5qQyEaT_PUgOi8y3iftvvLr4JtYe8BwWKdOyyBK3p_kt63YBaQHz_0tmLJO__MyMwMTNm6lndyj_61SPx-_m200TKTIRfbWzzVM4qzWNcC9eODbxZOjMQmBOdHe7503v74D1t.js?_nc_x=t8qgFQaIezA&_nc_eui2=AeHXtlOxPpr3KXW-NTHlQt28sLr-g6ExCQOwuv6DoTEJA3wKrxaNeLTIKAuoT5RrTA5AMUkqTvgMl_t-zMl1XdJV:27:5097
+
+1691246242358	Marionette	INFO	Stopped listening on port 49952
+Dynamically enable window occlusion 1
+[Parent 20588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[Parent 20588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[GPU 6396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20588, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6396, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
